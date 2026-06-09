@@ -1,6 +1,6 @@
 # # Project Tapper (PC & Mobile Automation PoC)
 
- **[Switch to English Version](#-project-tapper-pc--mobile-automation-poc---english)** / [日本語版は以下をご覧ください]
+ **[Switch to English Version](#-project-tapper-pc--mobile-automation-poc---english)** / **[日本語版はこちら](#-project-tapper-pc--mobile-automation-poc---日本語)**
 
 ---
 
@@ -50,4 +50,28 @@ python ui_tapper_poc.py -t heart_red.png --mock-screen mock_screen.png --sim-low
 
 ## 免責事項 (Disclaimer)
 本リポジトリは、自動化アルゴリズムの研究および概念実証を目的としたオープンソースコードです。不正なアクセスや規約に違反するスクレイピング等を助長するものではありません。
+
+---
+
+##  Project Tapper (PC & Mobile Automation PoC) - English
+
+This repository is a Proof of Concept (PoC) for a high-precision UI automation system that combines OpenCV image recognition with human-like behavioral ripples (timing fluctuations).
+
+###  UI Detection Demo
+When the program runs, it locks onto the target (red heart) on the screen and visualizes it with a green bounding box.
+
+###  Overview
+This project validates solutions for common issues in traditional automation, such as resolution mismatches and rigid click intervals. It contains only generic logic built for a portfolio, with no actual business or product code.
+
+### Key Features
+- **Robust UI Detection (OpenCV / NumPy)**: Accurately detects buttons via template matching.
+- **Human-like Timing Fluctuations**: Simulates natural random delays ($\pm0.2$ seconds) and minor coordinate shifts.
+- **Robust Error Handling**: Built-in retry logic when target UIs are missing.
+- **Low-Battery Simulation**: Simulates frame drops and reduced accuracy under high device load to test system resilience.
+
+### Setup & Execution
+```bash
+pip install opencv-python numpy pyautogui
+python create_dummy_assets.py
+python ui_tapper_poc.py -t heart_red.png --mock-screen mock_screen.png
 
