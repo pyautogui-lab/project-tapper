@@ -1,0 +1,20 @@
+# Pythonの自動生成ファイル・キャッシュ
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# エディタ・IDE設定ファイル
+.vscode/
+.idea/
+
+# OSが自動生成するゴミファイル
+.DS_Store
+Thumbs.db
+
+# 実行ごとに生成される「検知結果画像」はGit管理から外す
+detection_result.png
