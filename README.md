@@ -1,8 +1,10 @@
 # # Project Tapper (PC & Mobile Automation PoC)
 
- **[Switch to English Version](#-project-tapper-pc--mobile-automation-poc---english)** / **[日本語版はこちら](#-project-tapper-pc--mobile-automation-poc---日本語)**
+📖 [Switch to English Version](#english) / [日本語版はこちら](#japanese)
 
 ---
+<a id="japanese"></a>
+## 📖 Project Tapper (PC & Mobile Automation PoC) - 日本語
 
 OpenCVの画像認識と、人間の操作特性（ゆらぎ）を再現したアルゴリズムを組み合わせた、高精度UI自動化システムの概念実証（PoC）リポジトリです。
 
@@ -53,7 +55,8 @@ python ui_tapper_poc.py -t heart_red.png --mock-screen mock_screen.png --sim-low
 
 ---
 
-##  Project Tapper (PC & Mobile Automation PoC) - English
+<a id="english"></a>）
+## Project Tapper (PC & Mobile Automation PoC) - English
 
 This repository is a Proof of Concept (PoC) for a high-precision UI automation system that combines OpenCV image recognition with human-like behavioral ripples (timing fluctuations).
 
