@@ -81,6 +81,22 @@ This repository is a Proof of Concept (PoC) for a high-precision UI automation s
 ###  UI Detection Demo
 When the program runs, it locks onto the target (red heart) on the screen and visualizes it with a green bounding box.
 
+##  Core Motivation & Research Background
+
+My journey into software engineering began with a simple yet profound curiosity: **"How can I use Python and PyAutoGUI to automate target-based click operations?"**
+
+As a complete beginner at the time, I started entirely through **self-directed learning**, tackling fundamental challenges from configuring development environments to mastering variable concepts. Navigating through errors by analyzing official documentation and debugging logs allowed me to build a strong foundation of self-reliance and autonomous problem-solving from day one.
+
+Driven by the thrill and immense potential of building systems with my own hands, I sought to contextualize this practical experience through structured academic discipline. This led me to complete the entire **Minor in ICT (Information and Communication Technology)** curriculum at my university, alongside earning the **MDASH** certification—a government-approved national program for Mathematics, Data Science, and AI Education.
+
+### 📊 Intersection of Psychiatry Research and Engineering (Interdisciplinary Approach)
+Currently, as a student in the School of Wellness Studies at Tokai University, I am a member of a **psychiatry-focused research seminar** supervised by a licensed psychiatrist. My academic research centers on **"The Relationship Between Sleep Quality and Well-being,"** a domain where I have actively applied Python for large-scale statistical data analysis and data science pipelines.
+
+Through this specialized research, I formulated a core hypothesis:
+> "When humans are forced to adapt to rigid, mechanical rhythms or highly repetitive, pixel-perfect inputs, it induces cognitive dissonance and psychological stress. This principle translates directly to automated systems; excessively rigid and deterministic automation patterns create artificial friction and unnatural anomalies within the target system, increasing the risk of detection and operational errors."
+
+Project Tapper was born as a proof-of-concept (PoC) to bridge my roots in PyAutoGUI automation with these **insights from psychiatry and wellness studies**, controlled dynamically via the **data-driven approaches (such as the 1/f noise latency algorithm)** acquired through my minor and MDASH studies. It represents a highly unique, interdisciplinary synthesis of domain research and robust engineering that only I could build.
+
 ###  Overview
 This project validates solutions for common issues in traditional automation, such as resolution mismatches and rigid click intervals. It contains only generic logic built for a portfolio, with no actual business or product code.
 
