@@ -16,5 +16,3 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# 実行ごとに生成される「検知結果画像」はGit管理から外す
-detection_result.png
