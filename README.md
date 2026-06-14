@@ -21,10 +21,11 @@
 ## Overview
 OpenCVによる画像認識と、人間の操作リズムのゆらぎを組み合わせ、環境変化に強いUI自動化の仕組みを検証したプロジェクトです。
 
-##  動作デモ（UI検知結果）
+## 動作デモ（UI検知結果）
+
 プログラムを実行すると、画面内のターゲット（赤いハート）を正確にロックオンし、緑色の枠線で視覚化します。
 
-![UI Detection Result](detection_result.png)
+![UI Detection Result](assets/detection_result.png)
 
 ##  本プロジェクトの原点（開発の動機と研究背景）
 
