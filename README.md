@@ -2,13 +2,20 @@
 
 [Switch to English Version](#english) / [日本語版はこちら](#japanese)
 
-👉 **Jump to:** [📊 日本語検証レポート](#jp-report) / [📊 English Research Report](#en-report)
+👉 Portfolio Documents
 
----
-<a id="japanese"></a>
+📄 [Project Portfolio PDF](docs/project-tapper-portfolio.pdf)
+
+🖼️ [Detection Result Sample](assets/detection_result.png)
+
+## Detection Example
+
+![Detection Result](assets/detection_result.png)
+
 ## 📖 Project Tapper (PC & Mobile Automation PoC) - 日本語
 
-OpenCVの画像認識と、人間の操作特性（ゆらぎ）を再現したアルゴリズムを組み合わせた、高精度UI自動化システムの概念実証（PoC）リポジトリです。
+## Overview
+OpenCVによる画像認識と、人間の操作リズムのゆらぎを組み合わせ、環境変化に強いUI自動化の仕組みを検証したプロジェクトです。
 
 ##  動作デモ（UI検知結果）
 プログラムを実行すると、画面内のターゲット（赤いハート）を正確にロックオンし、緑色の枠線で視覚化します。
