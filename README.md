@@ -1,5 +1,6 @@
 # # Project Tapper (PC & Mobile Automation PoC)
 
+
 [Switch to English Version](#english) / [日本語版はこちら](#japanese)
 
 
@@ -9,6 +10,7 @@
 
 
 🖼️ [Detection Result Sample](assets/detection_result.png)
+
 
 ## Detection Example
 
