@@ -1,6 +1,8 @@
 # # Project Tapper (PC & Mobile Automation PoC)
 
-📖 [Switch to English Version](#english) / [日本語版はこちら](#japanese)
+[Switch to English Version](#english) / [日本語版はこちら](#japanese)
+
+👉 **Jump to:** [📊 日本語検証レポート](#jp-report) / [📊 English Research Report](#en-report)
 
 ---
 <a id="japanese"></a>
