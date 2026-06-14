@@ -2,9 +2,9 @@
 
 [Switch to English Version](#english) / [日本語版はこちら](#japanese)
 
-👉 Portfolio Documents
+👉 Portfolio Documents📄 [Project Portfolio PDF](docs/project-tapper-portfolio.pdf)
 
-📄https://github.com/pyautogui-lab/project-tapper/blob/main/docs/project-tapper-portfolio.pdf
+
 
 🖼️ [Detection Result Sample](assets/detection_result.png)
 
